@@ -1,0 +1,35 @@
+body{
+	background-color: #FFF2F2;
+}
+
+h1{
+	font-size: 3em;
+	color: #FF5B00;
+}
+
+h2{
+	font-size: 1.8em;
+	color: #D4D925;
+}
+
+.h1-medium{
+	font-size: 2.3em;
+	color: #990000;
+}
+
+.h1-small{
+	font-size: 2em;
+	color: #A25B5B;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.h1-medium.uppercase{
+	color: #A760FF;
+}
+
+h1 span{
+	color: #809A6F;
+}
