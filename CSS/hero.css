@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	font-family: 'Noto Sans', sans-serif;
+	line-height: 1.7em;
+}
+
+header{
+	max-width: 100%;
+	background-color: #E9D5CA;
+	text-align: center;
+	padding-bottom: 0.8em;
+}
+
+h1, h2{
+	font-family: 'El Messiri', sans-serif;
+}
+
+header h1{
+	color: #827397;
+	font-weight: 600;
+	font-size: 2.5em;
+}
+
+h2{
+	font-weight: 400;
+	font-size: 2em;
+	margin: 1em 0 0.5em 0;
+}
+
+p.caption{
+	font-weight: 600;
+	font-size: 1.5em;
+	text-transform: uppercase;
+
+}
+
+header img{
+	width: 15em;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 1.5em;
+}
+
+main img{
+	max-width: 100%;
+}
+
+footer{
+	max-width: 100%;
+	background-color: #E9D5CA;
+	text-align: center;
+	margin: 1.5em auto;
+	padding: 2em 0em;
+}
